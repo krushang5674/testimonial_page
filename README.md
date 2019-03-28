@@ -9,3 +9,6 @@ This file may take some time to load as it got some scripts in it.
 Run the test3.html file only in web browser.
 Make sure you're connected to an active internet.
 It is a bit same as test 2 but in a light theme.
+## Test 4
+Run the test4.html file only in web browser.
+Make sure you're connected to an active internet.
